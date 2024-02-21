@@ -10,6 +10,10 @@ Place Any Object You Want With Item, Without Restarting The Server Or The Script
 - Data Saved Without DB
 - 0.0 Resmon When Idle / 0.2 While Placing Items
 - Only Player Who Place The Objects or Admin Can Remove The Objects
+
+## Dependencies
+- ox_lib
+
 ## Support
 
 Feel free to ask me on discord if you have anny issues 
